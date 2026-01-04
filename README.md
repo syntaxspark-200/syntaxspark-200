@@ -50,6 +50,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,html,css,js,react,nextjs,nodejs,mongodb,mysql,django,flask,flutter,firebase,git,github,vscode,postman,figma" />
+    <img src="https://www.php.net/images/logos/php-logo.svg" height="60" alt="PHP">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://codeigniter.com/assets/icons/ci-logo.svg" height="60" alt="CodeIgniter 4">
   </a>
 </p>
 
