@@ -29,9 +29,9 @@
 * **Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Pandas.
 
 ### 🌐 Development & Design
-* **Web:** React.js, Next.js, Node.js, Django, FastAPI.
+* **Web:** React.js, Next.js, Node.js, Django, CodeIgnitier4, FastAPI.
 * **App:** Flutter (Cross-platform), Android Studio.
-* **Database:** MongoDB, PostgreSQL, Firebase.
+* **Database:** MySQL, MongoDB, PostgreSQL, Firebase.
 
 ---
 
